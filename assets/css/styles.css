@@ -174,7 +174,7 @@ body.scale-cv{
 .scale-cv .education_line,
 .scale-cv .experience_line{
    width: 1px;
-   height: 110%;
+   height: 105%;
    transform: translate(5px, 0);
 }
 
@@ -451,7 +451,7 @@ img{
 .education_line, .experience_line{
   display: block;
   width: 2px;
-  height: 110%;
+  height: 105%;
   background-color: var(--text-color-light);
   transform: translate(7px, 0);
 }
